@@ -1,6 +1,6 @@
 # Passport, visa and ID photo requirements
 
-The photo size, background, glasses rule and file limits of **186 passport, visa, residence and ID documents**, each read on the issuing authority's own page and dated. Rules read up to 18 November 2026.
+The photo size, background, glasses rule and file limits of **190 passport, visa, residence and ID documents**, each read on the issuing authority's own page and dated. Rules read up to 18 November 2026.
 
 Maintained by [WinPhoto ID](https://winphoto.io/id), a free passport and visa photo checker that runs in the browser. Each row links to a page with the official source, the quoted rules and a free check of your own photo.
 
@@ -15,11 +15,11 @@ The live table is at <https://winphoto.io/id/photo-sizes> (also as [CSV](https:/
 
 ## What the table shows
 
-- 186 passport, visa and ID documents from 67 countries are in the table, each read on the issuing authority's own page.
-- Of the 111 documents with a printed photo size on record, 63 are 35 x 45 mm, 19 are 51 x 51 mm (2 x 2 inches) and 29 are another size; 14 different sizes appear in all.
-- Of the 158 documents with a background rule on record, 94 ask for white; the other 64 do not ask for white alone, and 6 of those say the background must not be white.
-- Of the 101 documents whose rules mention glasses, 22 do not allow them at all.
-- 11 documents ask for a photo taken by a commercial photographer or studio, and 11 more say someone else must take it: no selfie.
+- 190 passport, visa and ID documents from 67 countries are in the table, each read on the issuing authority's own page.
+- Of the 114 documents with a printed photo size on record, 65 are 35 x 45 mm, 20 are 51 x 51 mm (2 x 2 inches) and 29 are another size; 14 different sizes appear in all.
+- Of the 162 documents with a background rule on record, 96 ask for white; the other 66 do not ask for white alone, and 7 of those say the background must not be white.
+- Of the 103 documents whose rules mention glasses, 23 do not allow them at all.
+- 11 documents ask for a photo taken by a commercial photographer or studio, and 12 more say someone else must take it: no selfie.
 - 88 documents publish a maximum file size for a digital photo, from 20 KB (Pakistani passport photo online) to 20,000 KB.
 
 ## Columns
@@ -157,6 +157,7 @@ An empty cell means the official page states no such rule, or the document needs
 | Netherlands | [Dutch driving licence (rijbewijs), printed colour photo for an application at the municipality (gemeente)](https://winphoto.io/id/nl_driving_licence) | 35 mm wide x 45 mm high | grey (Rijksoverheid page: light grey), light blue or white; plain, one colour, no gradient or shadow, enough contrast between head and background | 2026-11-18 |
 | Netherlands | [Dutch passport and identity card (ID-kaart), printed photo](https://winphoto.io/id/nl_passport) | 35 mm wide x 45 mm high | light grey, light blue or white; plain, one colour, no gradient, no shadow, enough contrast with the head | 2026-11-04 |
 | Netherlands | [Dutch residence permit card (verblijfsdocument): photo taken by the IND at the biometrics appointment](https://winphoto.io/id/nl_residence_permit) | no photo to prepare, or no size published |  | 2026-11-15 |
+| New Zealand | [Kiwi Access Card (formerly the 18+ Card), Hospitality New Zealand: printed photos for the paper application](https://winphoto.io/id/nz_kiwi_access_card) | 35 mm wide x 45 mm high (portrait) | plain and light, not white, with no shadows, objects or other people | 2026-11-18 |
 | New Zealand | [New Zealand Electronic Travel Authority (NZeTA) photo, online form](https://winphoto.io/id/nz_nzeta) | 900–2250 x 1200–3000 px | plain and neutral, good contrast with the face; INZ photographer guide: plain, light-coloured (not white) | 2026-11-04 |
 | New Zealand | [New Zealand firearms licence photo (Firearms Safety and Education New Zealand, MyFirearms online application)](https://winphoto.io/id/nz_firearms_licence) | Digital: JPG or JPEG, portrait 4:3, 900-4500 px wide x 1200-6000 px high (paper form example: 35 mm wide x 45 mm high); 900–4500 x 1200–6000 px | plain, light-coloured | 2026-11-18 |
 | New Zealand | [New Zealand passport (digital photo)](https://winphoto.io/id/nz_passport) | 900–4500 x 1200–6000 px | plain, light-coloured, strong contrast with the face, no shadows or objects | 2026-11-04 |
@@ -169,6 +170,7 @@ An empty cell means the official page states no such rule, or the document needs
 | Pakistan | [Pakistan online visa (Pakistan Online Visa System, visa.nadra.gov.pk) applicant photograph](https://winphoto.io/id/pk_evisa) | 35 mm wide x 45 mm high; 350 x 467 px | plain white (photograph guide and application guide); the guide's style section also says a plain light-coloured background | 2026-11-05 |
 | Pakistan | [Pakistani passport, online application for Pakistanis abroad (DGI&P e-Services portal, photo upload)](https://winphoto.io/id/pk_passport) | 35 mm wide x 45 mm high (as a digital file of at most 20KB) | plain white | 2026-11-04 |
 | Peru | [Peruvian visa (tourist and similar) application photo, as set by each Peruvian consulate](https://winphoto.io/id/pe_visa) | passport size; 3.5 x 4.5 cm, 35 x 43 mm or 2 x 2 in depending on the consulate | white (Santiago: plain white) | 2026-11-04 |
+| Philippines | [Philippine dual citizenship petition under RA 9225 (retention or re-acquisition of Philippine citizenship), printed photos, Philippine Consulate General in New York](https://winphoto.io/id/ph_dual_citizenship) | 2 x 2 inches | plain white | 2026-11-18 |
 | Philippines | [Philippine passport (photo captured live by DFA)](https://winphoto.io/id/ph_passport) | no photo to prepare, or no size published |  | 2026-11-04 |
 | Philippines | [Philippine visa (9(a) temporary visitor and other non-immigrant visas at embassies and consulates)](https://winphoto.io/id/ph_visa) | 3.5 cm x 4.5 cm (New York, Paris); some posts ask 2 x 2 in | white | 2026-11-04 |
 | Poland | [Polish passport and ID card (dowód osobisty) photo: 35 x 45 mm print, or file for an online application](https://winphoto.io/id/pl_passport) | 35 mm wide x 45 mm high; 768 x 1004 px | white, evenly lit, no shadows or decorative elements (the passport act says a uniform light background) | 2026-11-04 |
@@ -210,6 +212,7 @@ An empty cell means the official page states no such rule, or the document needs
 | United Arab Emirates | [UAE Emirates ID card photo (ICP personal photo, 4.5 x 3.5 cm, white background)](https://winphoto.io/id/ae_emirates_id) | 4.5 cm x 3.5 cm | white | 2026-11-15 |
 | United Kingdom | [Blue Badge (disabled person's parking badge), England: badge holder's photo for the GOV.UK online application or a council paper form](https://winphoto.io/id/uk_blue_badge) | 35 mm wide x 45 mm high (passport size) | light grey or cream (the regulations); the online service asks for a plain, light background with no objects behind you, a light grey or cream wall working best; strong definition between face and background | 2026-11-18 |
 | United Kingdom | [Great Britain photocard driving licence (DVLA), printed passport type photo for D1 postal applications](https://winphoto.io/id/uk_driving_licence) | 35 mm wide x 45 mm high | plain cream or light grey, in clear contrast to the face; no shadows behind you (GOV.UK passport photo rules, linked from DVLA's pages) | 2026-11-18 |
+| United Kingdom | [London Freedom Pass (London Councils): Older Person's and Disabled Person's Freedom Pass photo](https://winphoto.io/id/uk_freedom_pass) | 35 mm wide x 45 mm high | plain, evenly lit and pale coloured | 2026-11-18 |
 | United Kingdom | [UK Electronic Travel Authorisation (ETA), face photo](https://winphoto.io/id/uk_eta) | 600 x 750 px | plain light-coloured, in clear contrast to the person | 2026-11-04 |
 | United Kingdom | [UK passport for a baby or child, paper application (printed photos)](https://winphoto.io/id/uk_passport_baby) | 35 mm wide x 45 mm high | plain cream or light grey, in clear contrast to the face | 2026-11-04 |
 | United Kingdom | [UK passport, online application (digital photo)](https://winphoto.io/id/uk_passport_online) | 600 x 750 px | plain light-coloured, in clear contrast to the face | 2026-11-04 |
@@ -237,6 +240,7 @@ An empty cell means the official page states no such rule, or the document needs
 | United States | [U.S. visa photo (DS-160 / DS-1648 nonimmigrant digital image; DS-260 immigrant visa prints)](https://winphoto.io/id/us_visa) | 2 x 2 inches; 600–1200 x 600–1200 px | plain white or off-white | 2026-11-04 |
 | United States | [U.S. visa photo for a baby or child (DS-160 / DS-1648 digital image; DS-260 prints)](https://winphoto.io/id/us_visa_child) | 2 x 2 inches; 600–1200 x 600–1200 px | plain white or off-white; for a baby, a plain white or off-white sheet, or a car seat covered with one | 2026-11-11 |
 | United States | [U.S. work permit (Employment Authorization Document, EAD), Form I-765 photos](https://winphoto.io/id/us_work_permit) | 2 x 2 inches | white to off-white | 2026-11-16 |
+| United States | [Veteran ID Card (VIC), US Department of Veterans Affairs: digital color photo uploaded with the online application](https://winphoto.io/id/us_veteran_id_card) | no photo to prepare, or no size published | white or plain-color, with no scenery or other people in the photo | 2026-11-18 |
 | Uzbekistan | [Uzbekistan e-visa (e-visa.gov.uz) face photo upload](https://winphoto.io/id/uz_evisa) | 35 x 45 mm at 300 dpi (digital upload) | not stated in words; the face image must follow ICAO Doc 9303, and the portal's own example of an accepted photo has a plain white background | 2026-11-04 |
 | Vietnam | [Vietnam e-Visa (evisa.gov.vn) applicant portrait photo](https://winphoto.io/id/vn_evisa) | 4 x 6 cm (digital upload) | white | 2026-11-04 |
 | Vietnam | [Vietnam ordinary passport photo (hộ chiếu phổ thông, 4 x 6 cm, white background)](https://winphoto.io/id/vn_passport) | 4 cm x 6 cm | white | 2026-11-15 |
@@ -251,6 +255,6 @@ Found a rule that has changed? Open an issue with the link to the official page.
 
 The compilation is released under [CC BY 4.0](LICENSE): reuse it freely with a credit and a link, for example:
 
-> WinPhoto, "Passport and visa photo sizes of the world: 186 documents, each from the official rule". Rules read up to 18 November 2026. https://winphoto.io/id/photo-sizes
+> WinPhoto, "Passport and visa photo sizes of the world: 190 documents, each from the official rule". Rules read up to 18 November 2026. https://winphoto.io/id/photo-sizes
 
 The rules themselves belong to the authorities that publish them. WinPhoto is independent and not affiliated with any government.
