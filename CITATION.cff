@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this data set, please cite it as below."
+type: dataset
+title: "Passport, visa and ID photo requirements"
+abstract: "Official photo rules (print size, pixels, file limits, background, glasses, who may take the photo) of passport, visa, residence and ID documents, each read on the issuing authority's own page, with the source URL and the date it was read."
+authors:
+  - name: "WinPhoto"
+    website: "https://winphoto.io/id"
+repository-code: "https://github.com/mnifzied-create/passport-photo-requirements"
+url: "https://winphoto.io/id/photo-sizes"
+license: CC-BY-4.0
+keywords:
+  - passport photo
+  - visa photo
+  - ID photo
+  - photo requirements
+  - open data
