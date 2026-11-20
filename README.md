@@ -1,6 +1,6 @@
 # Passport, visa and ID photo requirements
 
-The photo size, background, glasses rule and file limits of **203 passport, visa, residence and ID documents**, each read on the issuing authority's own page and dated. Rules read up to 19 November 2026.
+The photo size, background, glasses rule and file limits of **204 passport, visa, residence and ID documents**, each read on the issuing authority's own page and dated. Rules read up to 19 November 2026.
 
 Maintained by [WinPhoto ID](https://winphoto.io/id), a free passport and visa photo checker that runs in the browser. Each row links to a page with the official source, the quoted rules and a free check of your own photo.
 
@@ -15,9 +15,9 @@ The live table is at <https://winphoto.io/id/photo-sizes> (also as [CSV](https:/
 
 ## What the table shows
 
-- 203 passport, visa and ID documents from 67 countries are in the table, each read on the issuing authority's own page.
-- Of the 126 documents with a printed photo size on record, 74 are 35 x 45 mm, 20 are 51 x 51 mm (2 x 2 inches) and 32 are another size; 15 different sizes appear in all.
-- Of the 175 documents with a background rule on record, 103 ask for white; the other 72 do not ask for white alone, and 7 of those say the background must not be white.
+- 204 passport, visa and ID documents from 67 countries are in the table, each read on the issuing authority's own page.
+- Of the 127 documents with a printed photo size on record, 74 are 35 x 45 mm, 20 are 51 x 51 mm (2 x 2 inches) and 33 are another size; 15 different sizes appear in all.
+- Of the 176 documents with a background rule on record, 103 ask for white; the other 73 do not ask for white alone, and 7 of those say the background must not be white.
 - Of the 112 documents whose rules mention glasses, 23 do not allow them at all.
 - 11 documents ask for a photo taken by a commercial photographer or studio, and 12 more say someone else must take it: no selfie.
 - 92 documents publish a maximum file size for a digital photo, from 20 KB (Pakistani passport photo online) to 20,000 KB.
@@ -110,6 +110,7 @@ An empty cell means the official page states no such rule, or the document needs
 | Ghana | [Ghana biometric passport, online application photo upload (passport.mfa.gov.gh, in Ghana or at a mission)](https://winphoto.io/id/gh_passport) | 140 x 170 px | white | 2026-11-04 |
 | Ghana | [Ghana eVisa (evisa.immigration.gov.gh) applicant photo: tourist (B2) and business (B1) visas](https://winphoto.io/id/gh_visa) | about 3.5 cm x 4.5 cm (digital upload) | plain white or light; not busy, dark, textured or distracting | 2026-11-19 |
 | Greece | [Greek passport photo (digital via myPhoto in Greece; upload or print at consulates abroad)](https://winphoto.io/id/gr_passport) | 1280 x 1600 px | digital file: grey, about RGB 190,190,190 (+/- 10); printed photo abroad (2018 sheet): white, cream or 5% grey | 2026-11-04 |
+| Hong Kong | [Hong Kong International Driving Permit (Transport Department, form TD51): printed photos for a paper application](https://winphoto.io/id/hk_international_driving_permit) | 40 mm wide x 50 mm high | plain background, no decoration | 2026-11-19 |
 | Hong Kong | [Hong Kong SAR passport photo (40 x 50 mm print, or a JPEG of at least 1200 x 1600 px for the online application)](https://winphoto.io/id/hk_passport) | 40 mm wide x 50 mm high; 1200 x 1600 px | plain white | 2026-11-15 |
 | India | [All India Sainik Schools Entrance Examination (AISSEE) application photograph, signature and left-hand thumb impression](https://winphoto.io/id/in_aissee) | no photo to prepare, or no size published | white | 2026-11-17 |
 | India | [CMAT application form photograph and signature (National Testing Agency)](https://winphoto.io/id/in_cmat) | no photo to prepare, or no size published | white | 2026-11-17 |
@@ -268,6 +269,6 @@ Found a rule that has changed? Open an issue with the link to the official page.
 
 The compilation is released under [CC BY 4.0](LICENSE): reuse it freely with a credit and a link, for example:
 
-> WinPhoto, "Passport and visa photo sizes of the world: 203 documents, each from the official rule". Rules read up to 19 November 2026. https://winphoto.io/id/photo-sizes
+> WinPhoto, "Passport and visa photo sizes of the world: 204 documents, each from the official rule". Rules read up to 19 November 2026. https://winphoto.io/id/photo-sizes
 
 The rules themselves belong to the authorities that publish them. WinPhoto is independent and not affiliated with any government.
