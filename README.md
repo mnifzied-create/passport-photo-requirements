@@ -1,6 +1,6 @@
 # Passport, visa and ID photo requirements
 
-The photo size, background, glasses rule and file limits of **204 passport, visa, residence and ID documents**, each read on the issuing authority's own page and dated. Rules read up to 19 November 2026.
+The photo size, background, glasses rule and file limits of **207 passport, visa, residence and ID documents**, each read on the issuing authority's own page and dated. Rules read up to 20 November 2026.
 
 Maintained by [WinPhoto ID](https://winphoto.io/id), a free passport and visa photo checker that runs in the browser. Each row links to a page with the official source, the quoted rules and a free check of your own photo.
 
@@ -15,12 +15,12 @@ The live table is at <https://winphoto.io/id/photo-sizes> (also as [CSV](https:/
 
 ## What the table shows
 
-- 204 passport, visa and ID documents from 67 countries are in the table, each read on the issuing authority's own page.
+- 207 passport, visa and ID documents from 67 countries are in the table, each read on the issuing authority's own page.
 - Of the 127 documents with a printed photo size on record, 74 are 35 x 45 mm, 20 are 51 x 51 mm (2 x 2 inches) and 33 are another size; 15 different sizes appear in all.
-- Of the 176 documents with a background rule on record, 103 ask for white; the other 73 do not ask for white alone, and 7 of those say the background must not be white.
+- Of the 179 documents with a background rule on record, 105 ask for white; the other 74 do not ask for white alone, and 7 of those say the background must not be white.
 - Of the 112 documents whose rules mention glasses, 23 do not allow them at all.
 - 11 documents ask for a photo taken by a commercial photographer or studio, and 12 more say someone else must take it: no selfie.
-- 92 documents publish a maximum file size for a digital photo, from 20 KB (Pakistani passport photo online) to 20,000 KB.
+- 95 documents publish a maximum file size for a digital photo, from 20 KB (Pakistani passport photo online) to 20,000 KB.
 
 ## Columns
 
@@ -130,8 +130,11 @@ An empty cell means the official page states no such rule, or the document needs
 | India | [NIFT entrance (NIFTEE) application form photograph and signature (National Testing Agency)](https://winphoto.io/id/in_niftee) | no photo to prepare, or no size published | white | 2026-11-17 |
 | India | [Overseas Citizen of India (OCI) card application photo](https://winphoto.io/id/in_oci) | square, not less than 51 x 51 mm; 200–900 x 200–900 px | plain light colour, NOT white, no border | 2026-11-04 |
 | India | [SBI PO and Junior Associate (Clerk) application photograph, signature, left-hand thumb impression and hand-written declaration](https://winphoto.io/id/in_sbi) | 200 x 230 px | light-coloured, preferably white | 2026-11-17 |
+| India | [SHRESHTA (NETS) application photograph, signature and left-hand thumb impression (National Testing Agency)](https://winphoto.io/id/in_shreshta) | no photo to prepare, or no size published | white | 2026-11-20 |
 | India | [SSC application photograph and signature (Staff Selection Commission: CGL, CHSL, Constable GD)](https://winphoto.io/id/in_ssc) | no photo to prepare, or no size published | plain background, good light (live capture) | 2026-11-17 |
+| India | [Telangana TET (TGTET) application photograph and signature](https://winphoto.io/id/in_tg_tet) | no photo to prepare, or no size published | not stated in the bulletin | 2026-11-20 |
 | India | [UGC NET application form photograph and signature (National Testing Agency)](https://winphoto.io/id/in_ugc_net) | no photo to prepare, or no size published | white | 2026-11-17 |
+| India | [UPSC application photograph and signature (Union Public Service Commission: Civil Services, NDA, CDS and other examinations)](https://winphoto.io/id/in_upsc) | no photo to prepare, or no size published | plain white | 2026-11-20 |
 | Indonesia | [Indonesia e-Visa and e-VOA (evisa.imigrasi.go.id) profile photo](https://winphoto.io/id/id_evisa) | 4 x 6 cm (digital upload, at least 400 x 600 pixels); 400 x 600 px | not stated on the e-Visa portal; Indonesian missions ask for a white background (Caracas, embassy-issued visas) | 2026-11-04 |
 | Indonesia | [Indonesian passport (applied on M-Paspor, photo taken at the immigration office)](https://winphoto.io/id/id_passport) | no photo to prepare, or no size published |  | 2026-11-12 |
 | Iraq | [Iraq e-Visa (evisa.iq) digital photo](https://winphoto.io/id/iq_evisa) | no photo to prepare, or no size published | white | 2026-11-16 |
@@ -269,6 +272,6 @@ Found a rule that has changed? Open an issue with the link to the official page.
 
 The compilation is released under [CC BY 4.0](LICENSE): reuse it freely with a credit and a link, for example:
 
-> WinPhoto, "Passport and visa photo sizes of the world: 204 documents, each from the official rule". Rules read up to 19 November 2026. https://winphoto.io/id/photo-sizes
+> WinPhoto, "Passport and visa photo sizes of the world: 207 documents, each from the official rule". Rules read up to 20 November 2026. https://winphoto.io/id/photo-sizes
 
 The rules themselves belong to the authorities that publish them. WinPhoto is independent and not affiliated with any government.
