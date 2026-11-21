@@ -17,7 +17,7 @@ The live table is at <https://winphoto.io/id/photo-sizes> (also as [CSV](https:/
 
 - 207 passport, visa and ID documents from 67 countries are in the table, each read on the issuing authority's own page.
 - Of the 127 documents with a printed photo size on record, 74 are 35 x 45 mm, 20 are 51 x 51 mm (2 x 2 inches) and 33 are another size; 15 different sizes appear in all.
-- Of the 179 documents with a background rule on record, 105 ask for white; the other 74 do not ask for white alone, and 7 of those say the background must not be white.
+- Of the 179 documents with a background rule on record, 85 ask for white; the other 94 do not ask for white alone, and 7 of those say the background must not be white.
 - Of the 112 documents whose rules mention glasses, 23 do not allow them at all.
 - 11 documents ask for a photo taken by a commercial photographer or studio, and 12 more say someone else must take it: no selfie.
 - 95 documents publish a maximum file size for a digital photo, from 20 KB (Pakistani passport photo online) to 20,000 KB.
